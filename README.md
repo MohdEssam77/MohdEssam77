@@ -3,7 +3,7 @@
 
 - 📫 How to reach me: **mohammedhalboub23@gmail.com**
 
-- ⚡ Fun fact: **I am a football player as well!**
+- ⚡ Fun fact: **I am a football player with SV Saar 05!**
 
 ###
 
