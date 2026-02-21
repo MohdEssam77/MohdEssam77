@@ -3,7 +3,7 @@
 
 - [Portfolio](https://myportfolio-beta-cyan.vercel.app/)
 
-- 📫 Reach me: **mohammedhalboub23@gmail.com**
+- 📫 Email: **mohammedhalboub23@gmail.com**
 
 - ⚡ Fun fact: **I am not only a programmer, but a football player with SV Saar 05 as well!**
 
