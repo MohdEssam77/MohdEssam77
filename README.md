@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 I am Mohammed Halboup</h1>
-<h3 align="center">From Yemen. A full stack developer in PersonalClientCare and computer science student at Saarland University, Germany.</h3>
+<h1 align="center">Hi 👋 I am Mohammed Halboup, from Yemen</h1>
+<h3 align="center">A full stack developer in PersonalClientCare and computer science student at Saarland University, Germany.</h3>
 
 - [Portfolio](https://myportfolio-beta-cyan.vercel.app/)
 
